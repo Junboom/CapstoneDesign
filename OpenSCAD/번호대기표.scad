@@ -42,7 +42,6 @@ difference() {
                 cube([65,56,15]);   // lcd module
                 translate([98,220,130])
                 cube([40,32,10]);    // lcd line
-                
                 translate([45,266,120])
                 cube([145,10,21]);  // back lid
             }
@@ -62,5 +61,6 @@ difference() {
         cube([145,25,101]); // inside back lid
         translate([45,266,10])
         cube([145,10,11]);  // inside bottom lid
+        
     }
 }
