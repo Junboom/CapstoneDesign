@@ -61,6 +61,8 @@ difference() {
         
         translate([45,266,20])
         cube([145,25,101]); // inside back lid
+        translate([139,258,120])
+        cube([30,9,21]);    // inside pan
         translate([45,266,10])
         cube([145,10,11]);  // inside bottom lid
         
