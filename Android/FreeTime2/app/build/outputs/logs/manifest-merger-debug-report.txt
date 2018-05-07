@@ -4,17 +4,17 @@ ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\Fr
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06e1b55be5cb12b08f972409df2791f1\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8f9480ece54c94d4f6a97fe9ffa6fba\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:17:1-30:12
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:2:1-35:12
@@ -54,28 +54,28 @@ ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\Fr
 		ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:10:22-65
 application
 ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:12:5-33:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06e1b55be5cb12b08f972409df2791f1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06e1b55be5cb12b08f972409df2791f1\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8f9480ece54c94d4f6a97fe9ffa6fba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8f9480ece54c94d4f6a97fe9ffa6fba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
 		ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
@@ -92,7 +92,7 @@ activity#com.example.b108.freetime.loadingActivity
 ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:name
 		ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:19:19-50
-intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER+android.nfc.action.NOEF_DISCOVERED
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.nfc.action.NOEF_DISCOVERED+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:mimeType:application/com.example.b108.freetime
 ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:20:13-26:29
 action#android.nfc.action.NOEF_DISCOVERED
 ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml:21:17-76
@@ -134,32 +134,32 @@ uses-sdk
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06e1b55be5cb12b08f972409df2791f1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\06e1b55be5cb12b08f972409df2791f1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8f9480ece54c94d4f6a97fe9ffa6fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c8f9480ece54c94d4f6a97fe9ffa6fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
@@ -169,30 +169,30 @@ INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android
 		ADDED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\tickt\Documents\GitHub\ComprehensiveDesignProject\Android\FreeTime2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\66c2a0486abb5570a9f4beea3d8ead69\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\cc5b97ddeceb53afde19d7bd75442e32\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\bffa25176105bbcc5e68b3588c90dc9a\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8da60876c0917609fe5ef281683953a1\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\7b3a2c2e13f65476ae050bf798eb18c3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\ae4c4dbb37ed84ceb95a2d39621a6425\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4ab1269b6d2294b207fb9a7e9dcabde8\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0390536f3aa2fdf7470d6c21c4b15392\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\37dee0ce5666aa79ca4e90069e5cf6f9\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f61758a91922401df23196f463852502\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\09efc3f0dcc7219074ff836e4d522ea1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\32bba9aa2edd779d9c58033d5dc6d85a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\acc92a919446207dbbc815384117eac0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\3a8779510d9975061fe74e5e4010d0bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\9036d59deaf3f4dafdb088da67f7b617\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\896a1f97e2ee01fc39f6ef01d8f7b283\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f128104db698c36ffd187dede240ef8b\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\013a389db30cc6973d702c6bc44d5ff1\AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c799ad0f4096e87c7d3732c4ddadfbc2\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\tickt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a41e70f6a58acb5cc8c7de2450df26f6\AndroidManifest.xml:26:13-58
