@@ -185,9 +185,14 @@ void loop()
   else if (switch_num == 2) {
     if (switch_ctrl == 0) {
       if (in_menu == 1) {
-        if (switch_ch == 3) {
+        if (switch_ch == 1) {
+          digitalWrite(ledPin, HIGH);
+        }
+        else if (switch_ch == 2) {
+          digitalWrite(ledPin, LOW);
+        }
+        else if (switch_ch == 3) {
           menu_left();
-          in_menu = 0;
         }
       }
       else if (in_menu == 0) {
@@ -221,7 +226,6 @@ void loop()
   else {
     if (switch_ctrl == 0) {
       menu_left();
-      switch_num = 1;
       switch_ctrl = 1;
     }
   }
@@ -298,6 +302,8 @@ void menu_left() {
   for (int i=4; i<=6; i++) {
     lcd.write(byte(i));
   }
+  in_menu = 0;
+  switch_menu = 1;
 }
 
 void menu() {
