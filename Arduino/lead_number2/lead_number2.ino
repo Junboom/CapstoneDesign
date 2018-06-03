@@ -1,16 +1,6 @@
 #include <SoftwareSerial.h>   // 시리얼통신 라이브러리 호출
 #include <Wire.h>
-#include <ESP8266WiFi.h>
 #include <LiquidCrystal_I2C.h>
-
-// const char* ssid       = "just";
-// const char* password   = "justjust";
-const char* ssid       = "DLive_A279";
-const char* password   = "D163D2A278";
-
-const char* host       = "13.124.185.67";
-const char* streamId   = "woojae";
-const char* privateKey = "YBJ11111";
 
 LiquidCrystal_I2C lcd(0x3F, 16, 2);
 
@@ -129,13 +119,13 @@ byte num[8] = {
   B01100
 };
 
-const int interruptPin = D2;
+// const int interruptPin = 0;
 
-const int ledPin = D3;
+const int ledPin = 2;
 
-const int button1Pin = 4;
-const int button2Pin = 5;
-const int button3Pin = 6;
+const int button1Pin = 7;
+const int button2Pin = 8;
+const int button3Pin = 9;
 
 int switch_num = 0;   // 몇 번째 스위치인지
 int switch_ctrl = 0;  // 스위치를 눌렀을 때 loop문이 한 번만 작동되도록
@@ -146,38 +136,16 @@ int switch_ch = 1;    // 메뉴 안에서 몇 번째를 선택했는지
 int now_num = 0;
 int wait_num = 0;
 int next_num = 0;
-
+/*
 long debouncing_time = 300;   // Debouncing Time in Milliseconds
 volatile unsigned long last_micros;
 boolean SettingsScreen = true;
-
+*/
 void setup()
 {
   Serial.begin(115200);
   delay(10);
-
-  // We start by connecting to a WiFi network
-  Serial.println();
-  Serial.println();
-  Serial.print("Connecting to ");
-  Serial.println(ssid);
-
-  /* Explicitly set the ESP8266 to be a WiFi-client, otherwise, it by default,
-     would try to act as both a client and an access-point and could cause
-     network-issues with your other WiFi-devices on your WiFi-network. */
-  WiFi.mode(WIFI_STA);
-  WiFi.begin(ssid, password);
-
-  while(WiFi.status() != WL_CONNECTED) {
-    delay(500);
-    Serial.print(".");
-  }
-
-  Serial.println();
-  Serial.println("WiFi connected");
-  Serial.println("IP address: ");
-  Serial.println(WiFi.localIP());
-
+  
   lcd.init();
   lcd.backlight();
   
@@ -196,64 +164,13 @@ void setup()
   pinMode(button2Pin, INPUT_PULLUP);
   pinMode(button3Pin, INPUT_PULLUP);
 
-  attachInterrupt(interruptPin, debounceInterrupt, RISING);
-
-  delay(5000);
-
-  Serial.print("connecting to ");
-  Serial.println(host);
-
-  // Use WiFiClient class to create TCP connections
-  WiFiClient client;
-  const int httpPort = 80;
-  if(!client.connect(host, httpPort)) {
-    Serial.println("connection failed");
-    return;
-  }
-
-  // We now create a URI for the request
-  String url = "/connect/run.php";
-
-  Serial.print("Requesting URL: ");
-  Serial.println(url);
-
-  // This will send the request to the server
-  client.print(String("GET ") + url + " HTTP/1.1\r\n" + "Host: " + host + "\r\n" + "Connection: close\r\n\r\n");
-  unsigned long timeout = millis();
-  while(client.available() == 0) {
-    if(millis()-timeout > 5000) {
-      Serial.println(">>> Client Timeout !");
-      client.stop();
-      return;
-    }
-  }
-
-  // Read all the lines of the reply from server and print them to Serial
-  if(client.available()) {
-    for(int i=0; i<10; i++) {
-      String line = client.readStringUntil('\r');
-      if(i == 7) {
-        Serial.print("현재 번호: ");
-        now_num = line.toInt();
-      }
-      else if(i == 8) {
-        Serial.print("대기 인원: ");
-        wait_num = line.toInt();
-      }
-      else if(i == 9) {
-        Serial.print("다음 번호: ");
-        next_num = line.toInt();
-      }
-      Serial.print(line);
-    }
-  }
-
-  Serial.println();
-  Serial.println("closing connection");
+  // attachInterrupt(interruptPin, debounceInterrupt, RISING);
 }
 
 void loop()
 {
+  DisplaySettings();
+  
   if (switch_num == 1) {
     if (switch_ctrl == 0) {
       if (in_menu == 1) {
@@ -335,7 +252,7 @@ void DisplaySettings()
     switch_ctrl = 0;
   }
 }
-
+/*
 void debounceInterrupt() {
    // if((long)(micros() - last_micros) >= debouncing_time * 1000) {
    if((long)(micros() - last_micros) >= debouncing_time * 100) {
@@ -343,44 +260,7 @@ void debounceInterrupt() {
      last_micros = micros();
    }
 }
-
-void insert_db(int value) {
-  // We now create a URI for the request
-  String url = "/connect/run.php?num=";
-  url += value;
-
-  Serial.print("Requesting URL: ");
-  Serial.println(url);
-
-  // Use WiFiClient class to create TCP connections
-  WiFiClient client;
-  const int httpPort = 80;
-  if(!client.connect(host, httpPort)) {
-    Serial.println("connection failed");
-    return;
-  }
-
-  // This will send the request to the server
-  client.print(String("GET ") + url + " HTTP/1.1\r\n" + "Host: " + host + "\r\n" + "Connection: close\r\n\r\n");
-  unsigned long timeout = millis();
-  while(client.available() == 0) {
-    if(millis()-timeout > 5000) {
-      Serial.println(">>> Client Timeout !");
-      client.stop();
-      return;
-    }
-  }
-
-  // Read all the lines of the reply from server and print them to Serial
-  while(client.available()) {
-    String line = client.readStringUntil('\r');
-    Serial.print(line);
-  }
-
-  Serial.println();
-  Serial.println("closing connection");
-}
-
+*/
 void menu_button() {
   lcd.createChar(0, arrow);
   lcd.createChar(1, saju1);

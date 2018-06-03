@@ -11,7 +11,7 @@
  But the maximum default of 8 MAX72XX wil also work.
 */
 
-LedControl lc = LedControl(7, 6, 5, 8);
+LedControl lc = LedControl(13, 2, 14, 8);
 
 /* we always wait a bit between updates of the display */
 // unsigned long delaytime = 500;
